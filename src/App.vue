@@ -6,12 +6,7 @@
 </template>
 
 <script>
-import VmTitle from '@/components/Title.vue';
-
 export default {
   name: 'vue-milligram',
-  components: {
-    VmTitle,
-  },
 };
 </script>
