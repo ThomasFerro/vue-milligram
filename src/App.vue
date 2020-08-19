@@ -2,6 +2,7 @@
   <div id="app">
     <h1>Vue Milligram</h1>
     <vm-title :type="1">Oui</vm-title>
+    <vm-blockquote>Yeah!! Milligram is amazing.</vm-blockquote>
     <vm-button outline>Bouton</vm-button>
     <vm-table :headers="tableHeaders" :items="tableValues"></vm-table>
     <vm-list :items="unorderedlistItems"></vm-list>
